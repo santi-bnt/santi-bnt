@@ -1,6 +1,6 @@
 <div align="center">
 <a href="#">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0011,50:3D0022,100:FF1493&height=220&section=header&text=PINTO&fontSize=80&fontColor=FF1493&animation=fadeIn&fontAlignY=38&desc=ROBOTICS%20%E2%80%A2%20EMBEDDED%20%E2%80%A2%20HARDWARE&descAlignY=58&descSize=18&descColor=FFB6E1" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0010,50:3D0022,100:FF1493&height=220&section=header&text=Santiago&fontSize=80&fontColor=FF1493&animation=fadeIn&fontAlignY=38&desc=ROBOTICS%20%E2%80%A2%20EMBEDDED%20%E2%80%A2%20HARDWARE&descAlignY=58&descSize=18&descColor=FFB6E1" />
 </a>
 <br />
 <a href="https://github.com/Andreu-APL">
