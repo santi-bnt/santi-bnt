@@ -98,30 +98,4 @@ Academic projects involving classes, inheritance, polymorphism, file handling, m
 
 ---
 
-## Currently Learning
 
-- Data Structures & Algorithms
-- Big O notation
-- Hashmaps, stacks, two pointers, and arrays
-- Object-Oriented Programming
-- Software Development Engineering interview preparation
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=santi-bnt&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santi-bnt&layout=compact&theme=tokyonight&hide_border=true&title_color=00D9FF" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:102A43,100:0B1020&height=100&section=footer" />
-
-</div>
