@@ -82,13 +82,6 @@ Web-controlled robot system using Firebase, ESP32, UART communication, and an em
 
 ---
 
-### KL25Z Mini Radar
-
-Radar-style distance scanner using ultrasonic sensing, servo movement, UART data streaming, and Python visualization.
-
-**Technologies:** FRDM-KL25Z, C, UART, Python, Matplotlib
-
----
 
 ### C++ Object-Oriented Programming Projects
 
