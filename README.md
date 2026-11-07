@@ -129,7 +129,6 @@ Expected Graduation: **June 2028**
 - **Python for Everybody** — University of Michigan
 - **Exploring Networking with Cisco Packet Tracer** — Cisco Networking Academy
 - **Getting Started with Cisco Packet Tracer** — Cisco Networking Academy
-- **IELTS Academic** — Overall Band 6.5, CEFR B2
 
 ---
 
